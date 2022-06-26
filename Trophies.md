@@ -20,6 +20,7 @@ PicksLeague features the awarding of trophies at the end of each week that are f
 - Picking all favorites
   - "Autopick"
 - Winning streak (only awarded after achieving a number of wins specific to each sport, like 3 weeks for football)
+  - "It has happened before"
 
 ## Season Trophies
 - Best record
