@@ -25,6 +25,8 @@ PicksLeague features the awarding of trophies at the end of each week that are f
 - Worst record picking underdogs
 - Best record for a single team
   - "They are who we thought they were!"
+- Worst record for a single team
+  - "And we let em off the hook!"
 - Best record for a division
 - Highest amount of picks for and against a single team
   - "Homer" and "Hater"
