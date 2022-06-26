@@ -5,14 +5,20 @@ PicksLeague features the awarding of trophies at the end of each week that are f
 - Best record
 - Worst record
 - Best record picking favorites
+  - "Chalk Monster"
 - Worst record picking favorites
+  - "You gotta be kidding me!"
 - Best record picking underdogs
+  - "The Shark"
 - Worst record picking underdogs
+  - "I picked the Jags to have a winning record"
 - Perfect week
 - 0 win week
 - Perfect week against the spread
 - 0 wins against the spread
 - Exact same picks as another user
+- Picking all favorites
+  - "Autopick"
 - Winning streak (only awarded after achieving a number of wins specific to each sport, like 3 weeks for football)
 
 ## Season Trophies
@@ -20,6 +26,7 @@ PicksLeague features the awarding of trophies at the end of each week that are f
 - Worst record
   - "Playoffs? You kidding me? We can't even win a game!"
 - Best record picking favorites
+  - "Don't think, just pick"
 - Worst record picking favorites
 - Best record picking underdogs
 - Worst record picking underdogs
